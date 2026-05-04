@@ -343,5 +343,3 @@ MIT
 ## Contributing
 
 Contributions are welcome! Open an issue or pull request.
-#   n a n o - r u s t - a p i  
- 
