@@ -1,0 +1,1 @@
+DROP TABLE web_router_logs;

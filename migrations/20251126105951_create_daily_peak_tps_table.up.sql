@@ -1,0 +1,5 @@
+CREATE TABLE daily_peak_tps (
+    id BIGSERIAL PRIMARY KEY,
+    peak_tps BIGINT NOT NULL,
+    created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+);

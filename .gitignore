@@ -1,0 +1,14 @@
+/target
+/test
+/ifenpay-Agent
+/ifenpay-Agent-SDK
+.env
+Cargo.lock
+
+# Strategic/confidential documentation
+LANGCHAIN_PLUGIN_PLAN.md
+REVENUE_MODEL.md
+wat moet nog gebeuren.md
+PROJECT_EVALUATION.md
+REVENUE_MODEL.md
+

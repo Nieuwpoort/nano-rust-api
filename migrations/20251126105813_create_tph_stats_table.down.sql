@@ -1,0 +1,1 @@
+DROP TABLE tph_stats;
